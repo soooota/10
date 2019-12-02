@@ -206,13 +206,14 @@ header{
 }
 
 .right-contact-content{
-	width: 170px;
+	width: 180px;
 	margin: 0 auto;
+	padding-left: 5px;
 }
 
-.right-contact-content .fab {
-	font-size: 45px;
-	margin-right: 10px;
+.right-contact-content .fa {
+	font-size: 50px;
+	margin-right: 20px;
 }
 
 .right-contact-content .fa:last-child {
